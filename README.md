@@ -10,9 +10,9 @@ but my knowledge is growing day by day.</p>
 <h3>Skills learned in class</h3>
 <ul>
   <li>Java</li>
-  <li>SQL(MySQL Workbench)</li>
+  <li>SQL(MySQL)</li>
   <li>UML Diagrams</li>
-  <li>Web development stack: HTML, CSS and Javascript</li>
+  <li>Web development stack: HTML, CSS and JavaScript</li>
 </ul>
 
 <h3>Skills learned on my own</h3>
@@ -30,12 +30,13 @@ but my knowledge is growing day by day.</p>
 on Hexagonal Architecture and Test-Driven Development(TDD).</p>
 
 <p>You can see this progress in my project "AppWithTesting", where I am learning to 
-handle concepts like repositories, value object, SOLID principles, etc.</p>
+handle concepts like repositories, value objects, SOLID principles, etc.</p>
 
 <h3>What do I want to contribute to the sector?</h3>
-<p>I still learning all the technologies mencioned previuslly, and I want to keep learning as much as I can with the objetive of becoming a better programmer</p>
+<p>I keep working with all the technologies mentioned previously, and I want to keep learning as much as I can with the objective of becoming a better programmer</p>
 
-<p>I consider myself a proactive person, who always wants to work on any problem and find the better solution. Also, I would like to learn from experienced proffesionals
+<p>I consider myself a proactive person, who always wants to work on any problem and find the best solution. Also, I would like to learn from experienced professionals
 across different IT sectors.</p>
 
 <p>Contact: albertomunoz.0803@gmail.com</p>
+<p>My main project: <a href="https://github.com/Albertmnz07/AppWithTesting" target="_blank">AppWithTesting - Java project focused on Clean Architecture and TDD</a></p>
